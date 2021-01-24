@@ -1,2 +1,2 @@
-# Techniki mikroprocesorowe i systemy_wbudowane
+# Techniki mikroprocesorowe i systemy wbudowane
 PWSZ Legnica
